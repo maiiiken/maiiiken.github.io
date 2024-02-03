@@ -1,0 +1,162 @@
+body {
+    padding: 0;
+    margin:0;
+    background-color: rgba(255, 255, 255, 0.959);
+}
+
+header {
+    background-color: #5c6880;
+}
+
+h1 {
+    color:black;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-indent: 100px;
+}
+
+h2 {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35;
+    text-indent: 100px;
+}
+
+p {
+    color:black;
+    text-align: left;
+    font-size: 17px;
+    font-family: monospace;
+    text-indent: 140px;
+}
+
+
+button {
+    color: black;
+    text-align: center;
+    transition-duration: 0.4s;
+    font-size: 17px;
+    font-family: monospace;
+}
+
+.button1 {
+    margin-top: 10px;
+    margin-right: 10px;
+    font-size: 32px;
+    float: right;
+    color: black;
+    text-align: center;
+    background-color: #5c6880;
+    transition-duration: 0.4s;
+    border: 0px;
+}
+
+.button1:hover {
+    color: #39b6ff;
+    font-size: 37px;
+}
+
+.home {
+    float: left;
+    font-size: 50px;
+    margin-top: 5px;
+    margin-left: 15px;
+    font: lighter;
+}
+
+.home:hover {
+    font-size: 52px;
+}
+
+a {
+    color:black;
+    text-align: left;
+    font-size: 17px;
+    font-family: monospace;
+    
+}
+
+.contact_link {
+    margin-left: 140px;
+}
+
+a:link {
+    color: black;
+    transition-duration: 0.4s;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: #ff9ce9;
+}
+
+summary {
+    color:black;
+    text-align: left;
+    font-size: 17px;
+    font-family: monospace;
+    text-indent: 125px;
+}
+
+.summarypic {
+    width: 50%;
+    margin-left: 140px;
+}
+
+form {
+    margin-left: 140px;
+}
+
+label {
+    color:black;
+    font-size: 17px;
+    font-family: monospace;
+}
+
+.button2 {
+    background-color: #9faabf;
+}
+
+.button2:hover {
+    background-color: #39b6ff;
+    
+}
+
+.button3 {
+    margin-left: 140px;
+}
+
+footer {
+    background-color: #5c6880;
+}
+
+.footertxt {
+    color: #f0f4f7;
+}
+
+.footerlink {
+    color: #f0f4f7;
+    margin-left: 60%;
+}
+
+.footerlink:link {
+    color: white;
+    transition-duration: 0.4s;
+}
+
+.footerlink:visited {
+    color: white;
+}
+
+.footerlink:hover {
+    color: #39b6ff;
+}
+
+.eilapic {
+    margin-left: 20px;
+    width: 30%;
+}
